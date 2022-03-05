@@ -3,5 +3,5 @@
 module.exports = utils;
 
 function utils() {
-    console.log('1')
+    console.log('2')
 }
